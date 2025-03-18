@@ -1,0 +1,39 @@
+1) Application versions.	
+	1.Microsoft® Word 2021 MSO (A new document was created, saved and opened without errors.)
+	2.Microsoft® PowerPoint® 2021 MSO (A new document was created, saved and opened without errors.)
+	3.Microsoft® Excel® 2021 MSO (A new document was created, saved and opened without errors.)
+2) Changes made to the interface and security settings.
+
+	Interface:
+
+		The ribbon is configured to display frequently used tabs (for example, "Home", "Insert").
+
+		The commands "Save", "Undo", "Print" have been added to the quick access toolbar.
+
+		The design theme is set to "Light".
+
+	Security:
+
+		Autosave is configured to every 5 minutes (File → Options → Save).
+
+		Macros are limited: only digitally signed macros are allowed (File → Options → Trust Center → Macro Settings).
+
+3) Description of maintenance performed and its results.
+
+	Temporary files have been cleared:
+
+	Files have been removed from the %temp% folder.
+
+	Unused templates have been removed from the C:\Users\[Username]\AppData\Roaming\Microsoft\Templates folder.
+
+	A backup copy of the settings and templates has been created:
+
+		Folders with templates have been copied to an external drive.
+
+	The correctness of saving and opening files has been checked:
+
+		All files open and save without errors.
+
+4) Problems:
+
+	No problems found. All applications work correctly.

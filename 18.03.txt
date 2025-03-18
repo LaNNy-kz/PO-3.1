@@ -12,5 +12,4 @@ Company: ASUS Tek Computer Inc.
 
 4) NVIDIA Platform Controllers and Framework 
 
-
 Company: NVIDIA
