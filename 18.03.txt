@@ -1,0 +1,16 @@
+1) NVIDiA GeForce RTX 4050 Laptop GPU
+
+Company:  NVIDIA
+
+2)Asus Component Fimware Update 
+
+Company: ASUS Tek Computer Inc.
+
+3)ROG Strix G16 UEFI
+
+Company: ASUS Tek Computer Inc.
+
+4) NVIDIA Platform Controllers and Framework 
+
+
+Company: NVIDIA
